@@ -1,0 +1,11 @@
+ERC20ChildTunnel: 0x91483D7f2d9b26445421cb3652854c56dE25E34e
+https://mumbai.polygonscan.com/address/0x91483D7f2d9b26445421cb3652854c56dE25E34e  
+
+ERC20RootTunnel: 0x76Ff8d8aa7ae6aD8dDBf992261dddFd1AAF27810 
+https://goerli.etherscan.io/address/0x76Ff8d8aa7ae6aD8dDBf992261dddFd1AAF27810 
+
+CARE (L1): 0x17421b4be0588408106fb548bb4f7cea29e237b0
+https://goerli.etherscan.io/token/0x17421b4be0588408106fb548bb4f7cea29e237b0
+
+CARE (L2): 0x56fC9B2cD24a177eFF5d4424706F2Dc8d6407dbA
+https://mumbai.polygonscan.com/token/0x56fC9B2cD24a177eFF5d4424706F2Dc8d6407dbA
